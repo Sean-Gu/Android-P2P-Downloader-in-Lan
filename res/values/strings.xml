@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">p2pfirstdemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home_path">/mnt/sdcard2/p2pTransfer</string>
+    <string name="p2ptransfer_storage">/mnt/sdcard/p2pTransfer</string>
+
+</resources>
